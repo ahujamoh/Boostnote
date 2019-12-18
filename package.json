@@ -75,7 +75,7 @@
     "immutable": "^3.8.1",
     "invert-color": "^2.0.0",
     "js-yaml": "^3.12.0",
-    "jsonlint-mod": "^1.7.4",
+    "jsonlint-mod": "^1.7.5",
     "katex": "^0.10.1",
     "lodash": "^4.11.1",
     "lodash-move": "^1.1.1",
